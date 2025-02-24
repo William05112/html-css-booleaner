@@ -1,11 +1,37 @@
+/* HEADER */
 .header{
     background-color: lightblue;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 10px;
     padding: 30px 10px
 }
 
 #header-logo{
     width: 150px;
+}
+
+/* MAIN */
+/* Article section */
+.main-title{
+font-size: 38px;
+}
+
+.author{
+color: grey;
+}
+
+.author-name{
+color: blue;
+}
+
+.date{
+color: grey;
+font-size: 12px;
+}
+
+.captio{
+    font-size: 12px;
+}
+
+.high{
+    font-weight: 400;
+    background-color: yellow;
 }
