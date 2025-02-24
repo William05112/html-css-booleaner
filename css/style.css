@@ -35,3 +35,6 @@ font-size: 12px;
     font-weight: 400;
     background-color: yellow;
 }
+ .table-header{
+    background-color: rgb(87, 129, 187);
+ }
