@@ -27,7 +27,7 @@ color: grey;
 font-size: 12px;
 }
 
-.captio{
+.caption{
     font-size: 12px;
 }
 
@@ -35,8 +35,17 @@ font-size: 12px;
     font-weight: 400;
     background-color: yellow;
 }
+
+/* sezione tabella */
+
  .table-header{
     background-color: rgb(87, 129, 187);
+    color: white;
+    text-align: left;
+ }
+
+ .colonna3{
+    width: 50%;
  }
 
 .tbody1{
@@ -49,4 +58,12 @@ font-size: 12px;
 
 .tbody3{
     background-color: lightgrey;
+}
+/* Footer */
+.footer{
+    background-color:gray ;
+    text-align: center;
+    color: white;
+    padding: 20px 0px
+
 }
